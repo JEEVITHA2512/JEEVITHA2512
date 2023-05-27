@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi Folks! 👋, I'm Jeevitha M </h1>
+<h3 align="center">A dedicated Data Science and DevOps Enthusiast </h3>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<!--
-**JEEVITHA2512/JEEVITHA2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohnishkarthikeyan&label=Profile%20views&color=0e75b6&style=flat" alt="JEEVITHA2512" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently gaining knowledge in the field of **Artificial Intelligence , Data Science , Machine Learning and DevOps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **Machine Learning and Data Science Projects**
+
+- 📫 How to reach me **jeevithamurugan.2512@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jeevitha-m-357979223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevitha-m-357979223" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jeevithamurugan1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jeevithamurugan1" height="30" width="40" /></a>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  - Programming languages : Python [NumPy, Pandas, Scikit-learn,Tensorflow, Keras,  Spacy , OCR]
+  - Databases:  SQL, PostgresSQL, MongoDB
+  - Tools : Streamlit , Tabuleau , Jupyter Notebook, Google Collab
+  - Visualization and Analytical Tools:  Tabuleau, Matplotlib, Seaborn
+  - Data Science Skills - Data Preprocessing, Data Visualization , Model Validation, Regression, Classification, Clustering, NLP, Computer Vision
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JEEVITHA2512_icons=true&locale=en&layout=compact" alt="JEEVITHA2512" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JEEVITHA2512&show_icons=true&locale=en" alt="JEEVITHA2512" /></p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=JEEVITHA2512&theme=blue-green&hide_border=false)<br/>
