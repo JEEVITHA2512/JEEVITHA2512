@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Data Science Projects**
 
-- 📫 How to reach me **jeevithamurugan.2512@gmail.com**
+- 📫 Contact **jeevithamurugan.2512@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,13 +18,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   - Programming languages : Python [NumPy, Pandas, Scikit-learn,Tensorflow, Keras,  Spacy , OCR]
-  - Databases:  SQL, PostgresSQL, MongoDB
+  - \nDatabases:  SQL, PostgresSQL, MongoDB
   - Tools : Streamlit , Tabuleau , Jupyter Notebook, Google Collab
   - Visualization and Analytical Tools:  Tabuleau, Matplotlib, Seaborn
   - Data Science Skills - Data Preprocessing, Data Visualization , Model Validation, Regression, Classification, Clustering, NLP, Computer Vision
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JEEVITHA2512_icons=true&locale=en&layout=compact" alt="JEEVITHA2512" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JEEVITHA2512&show_icons=true&locale=en&layout=compact" alt="JEEVITHA2512" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JEEVITHA2512&show_icons=true&locale=en" alt="JEEVITHA2512" /></p>
 
