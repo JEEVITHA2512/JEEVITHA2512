@@ -16,13 +16,12 @@
 <a href="https://www.hackerrank.com/jeevithamurugan1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jeevithamurugan1" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
   - Programming languages : Python [NumPy, Pandas, Scikit-learn,Tensorflow, Keras,  Spacy , OCR]
   - \nDatabases:  SQL, PostgresSQL, MongoDB
   - Tools : Streamlit , Tabuleau , Jupyter Notebook, Google Collab
   - Visualization and Analytical Tools:  Tabuleau, Matplotlib, Seaborn
   - Data Science Skills - Data Preprocessing, Data Visualization , Model Validation, Regression, Classification, Clustering, NLP, Computer Vision
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JEEVITHA2512&show_icons=true&locale=en&layout=compact" alt="JEEVITHA2512" /></p>
 
