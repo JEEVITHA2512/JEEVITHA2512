@@ -23,8 +23,6 @@
   - Visualization and Analytical Tools:  Tabuleau, Matplotlib, Seaborn
   - Data Science Skills - Data Preprocessing, Data Visualization , Model Validation, Regression, Classification, Clustering, NLP, Computer Vision
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JEEVITHA2512&show_icons=true&locale=en&layout=compact" alt="JEEVITHA2512" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JEEVITHA2512&show_icons=true&locale=en" alt="JEEVITHA2512" /></p>
-
+![](https://github-readme-stats.vercel.app/api?username=JEEVITHA2512&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JEEVITHA2512&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVITHA2512&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
