@@ -15,7 +15,7 @@
   </a>
 -->
     
-  <a href="https://mobile.twitter.com/angelicajeni7">
+  <a href="https://twitter.com/25_Jeevitha_M">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
