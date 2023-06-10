@@ -72,7 +72,7 @@
   - Databases:  SQL, PostgresSQL, MongoDB
   - Tools : Streamlit , Tabuleau , Jupyter Notebook, Google Collab
   - Visualization and Analytical Tools:  Tabuleau, Matplotlib, Seaborn
-  - Data Science Skills - Data Preprocessing, Data Visualization , Model Validation, Regression, Classification, Clustering, NLP, Computer Vision
+  - Data Science Skills - Data Preprocessing, Data Visualization , Model Validation, Regression, Classification, Clustering, NLP, Computer Vision, Deep Learning
 
 ---
 
